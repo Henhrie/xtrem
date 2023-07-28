@@ -81,6 +81,7 @@ int print_reverse(va_list types, char buffer[],
 	}
 	return (count);
 }
+
 /**
  * print_pointer - Prints the value of a pointer variable
  * @types: List of arguments
